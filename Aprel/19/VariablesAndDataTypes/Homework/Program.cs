@@ -22,6 +22,11 @@ namespace Homework
              Homework 3:
              int, bool, char, string və long tipində dəyişənlər yaradıb onlara dəyər verirsiniz. Sonra elə bir dəyişən yaratmalısınız ki, bütün bu dəyişənləri
              ona dəyər olaraq mənimsədə biləsiniz.
+
+             Homework 4:
+             Araşdırdığınız dəyişən tipləri barədə bir yazı hazırlayacaqsız. Hər bir data type'ın nə kimi bir dəyər aldığını, neçə bit olduğunu və s. araşdırın.
+
+             Qeyd: mövzuları araşdırarkən bir saytdan və ya qaynaqdan araşdırmayın. Fərqli-fərqli qaynaqlara baxın.
              */
         }
     }
