@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{FC8102C9-2EF8-4F42-AEE4-63835338F3F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastHomeworks", "PastHomeworks\PastHomeworks.csproj", "{9A407939-67DB-4579-BC9C-7F6C0B1DE939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworks", "Homeworks\Homeworks.csproj", "{1F6C5954-00B7-417D-B46A-A6FD49D838CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8102C9-2EF8-4F42-AEE4-63835338F3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8102C9-2EF8-4F42-AEE4-63835338F3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8102C9-2EF8-4F42-AEE4-63835338F3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8102C9-2EF8-4F42-AEE4-63835338F3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A407939-67DB-4579-BC9C-7F6C0B1DE939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A407939-67DB-4579-BC9C-7F6C0B1DE939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A407939-67DB-4579-BC9C-7F6C0B1DE939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A407939-67DB-4579-BC9C-7F6C0B1DE939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6C5954-00B7-417D-B46A-A6FD49D838CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6C5954-00B7-417D-B46A-A6FD49D838CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6C5954-00B7-417D-B46A-A6FD49D838CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6C5954-00B7-417D-B46A-A6FD49D838CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B4F6AA-F17F-4DD7-AF14-0D5D2DFC6A98}
+	EndGlobalSection
+EndGlobal
