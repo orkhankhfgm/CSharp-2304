@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP___Inheritance_Part_3
+{
+    public class Teacher : Person
+    {
+        public string Branch { get; set; }
+        public string Level { get; set; }
+        public string IsProfessor { get; set; }
+        
+        public Teacher()
+        {
+            Console.WriteLine("CTOR: Teacher class");
+            MyProtectedMethod();
+        }
+    }
+}
