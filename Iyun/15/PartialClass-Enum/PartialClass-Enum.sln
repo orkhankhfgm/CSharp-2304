@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass-Enum", "PartialClass-Enum\PartialClass-Enum.csproj", "{C5FF1986-D1A6-466C-A5B3-7080930C08DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{600F2085-220D-484A-BCC7-1095586B3146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FF1986-D1A6-466C-A5B3-7080930C08DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FF1986-D1A6-466C-A5B3-7080930C08DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FF1986-D1A6-466C-A5B3-7080930C08DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FF1986-D1A6-466C-A5B3-7080930C08DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600F2085-220D-484A-BCC7-1095586B3146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600F2085-220D-484A-BCC7-1095586B3146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600F2085-220D-484A-BCC7-1095586B3146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600F2085-220D-484A-BCC7-1095586B3146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B44008B4-F4A9-4C40-BA25-E424FE2F24EA}
+	EndGlobalSection
+EndGlobal
